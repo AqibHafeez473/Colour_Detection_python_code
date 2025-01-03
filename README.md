@@ -30,5 +30,5 @@ The project uses a `colors.csv` file as a dataset containing predefined color na
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/color-detection-tool.git
-cd color-detection-tool
+git clone https://github.com/AqibHafeez473/Colour_Detection_python_code.git
+cd Colour_Detection_python_code
